@@ -1,6 +1,6 @@
 # LOR 
 
-**Name:** Akshay Adme
+**Name:** Mahendra
 
 **Duration:** 3 months
 
